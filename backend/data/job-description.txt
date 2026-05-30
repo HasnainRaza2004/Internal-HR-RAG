@@ -1,0 +1,67 @@
+JavaScript Full Stack AI Engineer — VentureDive
+
+Job Brief
+We're seeking a JavaScript Full Stack AI Engineer to lead the development of AI-powered applications and integrations. You'll work at the intersection of modern web development and cutting-edge LLM technologies, building production-grade systems that leverage the latest advances in generative AI. Your role spans from architecting backend services that integrate with LLMs to creating intuitive frontend experiences powered by AI.
+This is a hands-on technical role for someone who thrives on understanding how LLMs work under the hood and translating that knowledge into practical solutions. You'll be expected to stay current with AI developments, experiment with new models and techniques, and guide architectural decisions around AI integration.
+
+VentureDive Overview
+Founded in 2012 by veteran technology entrepreneurs from MIT and Stanford, VentureDive is the fastest-growing technology company in the region that develops and invests in products and solutions that simplify and improve the lives of people worldwide. We aspire to create a technology organization and an entrepreneurial ecosystem in the region that is recognized as second to none in the world.
+
+Key Responsibilities
+- Design and implement full-stack applications that integrate large language models into production systems
+- Build backend services (Node.js, Express, Python) that interface with LLM APIs (OpenAI, Anthropic, local models) and handle complex prompt engineering
+- Develop frontend applications (React, Next.js) that provide real-time, interactive experiences with AI capabilities
+- Run and fine-tune open-source LLMs locally using frameworks like Ollama, LM Studio, or vLLM for cost optimization and privacy
+- Implement AI-assisted coding workflows using GitHub Copilot, Cursor, or similar tools to accelerate development
+- Architect solutions for prompt optimization, RAG (Retrieval-Augmented Generation), fine-tuning, and model selection
+- Ensure scalability, security, and cost-efficiency of AI integrations
+- Collaborate with product, design, and ML teams to translate business requirements into AI-powered features
+
+Required Skills & Experience
+
+Core Development
+- Expert-level JavaScript/TypeScript across frontend and backend
+- Strong React and Next.js experience; comfortable building SSR/SSG applications
+- Backend expertise with Node.js, Express, and REST/GraphQL APIs
+- Experience with modern DevOps (Docker, Kubernetes preferred) and cloud platforms (AWS, GCP, Azure)
+
+LLM & AI Expertise
+- Deep working knowledge of LLM concepts: tokenization, embeddings, context windows, temperature, sampling, fine-tuning
+- Hands-on experience integrating with major LLM APIs (OpenAI GPT, Anthropic Claude, Google Gemini, etc.)
+- Proficiency running open-source models locally: experience with Ollama, LM Studio, vLLM, llama.cpp, or similar
+- Understanding of RAG (vector databases, semantic search) and prompt engineering best practices
+- Experience with LLM monitoring, cost optimization, and rate limiting strategies
+
+AI-Assisted Development
+- Proficiency with AI coding assistants (Cursor, GitHub Copilot, Claude in IDE) for accelerated development
+- Ability to write effective prompts and context for AI tools to generate high-quality code
+- Understanding of code review best practices when working with AI-generated code
+
+Nice to Have
+- Python experience for data processing or model fine-tuning
+- Experience with LangChain, LlamaIndex, or similar LLM frameworks
+- Familiarity with ML concepts: transformers, attention mechanisms, training loops
+- Experience building chatbots, knowledge bases, or search systems powered by LLMs
+- Contributions to open-source AI/ML projects
+- Knowledge of evaluating and benchmarking LLM performance
+
+Preferred Qualities
+- Curiosity about AI/ML and commitment to staying updated with rapid developments
+- Strong debugging and problem-solving skills
+- Experience working in fast-paced startup or product environments
+- Excellent communication and collaboration skills
+- Ownership mindset—comfortable taking end-to-end responsibility for features
+
+What we look for beyond required skills
+In order to thrive at VentureDive, you
+…are intellectually smart and curious
+…have the passion for and take pride in your work
+…deeply believe in VentureDive's mission, vision, and values
+…have a no-frills attitude
+…are a collaborative team player
+…are ethical and honest
+
+Are you ready to put your ideas into products and solutions that will be used by millions?
+You will find VentureDive to be a quick pace, high standards, fun and a rewarding place to work at. Not only will your work reach millions of users world-wide, you will also be rewarded with competitive salaries and benefits. If you think you have what it takes to be a VenDian, come join us ... we're having a ball!
+
+Location: Pakistan | Full Time | Hybrid (#LI-Hybrid)
